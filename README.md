@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there! 👋
 a new fella Github enjoyer! 😁 🇮🇷
 
 - 🔭 I’m currently working on Algorithms for codes
@@ -7,3 +7,5 @@ a new fella Github enjoyer! 😁 🇮🇷
 - 🔵 Telegram: [...](https://t.me/A_8HP)
 
 
+## Student as Allameh Tabataba'i University 🏫
+this place is hella cold!
