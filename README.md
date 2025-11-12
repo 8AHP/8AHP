@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm currently studying Computer Engineering<br>🏫At Allameh Tabtaba'i University<br>Looking for help with writing resume<br>Likes Netwoeks, Game development, Algorithms[mostly]
+📖I'm currently studying Computer Engineering<br>🏫At Allameh Tabtaba'i University<br>📝Looking for help with writing resume<br>✨Likes Networks, Game development, Algorithms[mostly]
 
 
 ## 🌐 Socials:
